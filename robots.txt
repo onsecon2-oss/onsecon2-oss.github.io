@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://onsecon2-oss.github.io/yujin-enc-website/sitemap.xml
+Sitemap: https://onsecon2-oss.github.io/miga-bang/sitemap.xml
